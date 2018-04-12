@@ -32,3 +32,4 @@ Replace URL with git remote repository of your coin.
 mkdir build && cd build && cmake .. && make
 ```
 # diamantinawallet
+# diamantinawallet
